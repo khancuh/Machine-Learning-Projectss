@@ -7,8 +7,6 @@
 Project Overview
 
 
-#Created a model that predicts the score (in terms of range) of IPL matches.
-
 
 Resources Used
 
