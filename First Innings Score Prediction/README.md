@@ -6,6 +6,12 @@
 
 Project Overview
 
+• Created a model that predicts the score (in terms of range) of IPL matches
+
+• Engineered features ....
+
+• Optimized Linear, Decision Tree, Random Forest, and AdaBoost regressors using GridsearchCV to reach the best model
+
 
 
 Resources Used
