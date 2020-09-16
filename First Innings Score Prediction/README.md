@@ -39,13 +39,19 @@ Algorithms used for this project are as follows:
 
 • Random Forest
 
-• Adaptive Boosting (AdaBoost)
-Model Evaluation
+• Adaptive Boosting (AdaBoost) Model Evaluation
+
+
 
 I have used Root Mean Squared Error (RMSE) as the evaluation metric, and here are the scores:
+
+
 • Multiple Linear Regression -
+
 • Decision Tree -
+
 • Random Forest -
+
 • Adaptive Boosting (AdaBoost) -
 
 
