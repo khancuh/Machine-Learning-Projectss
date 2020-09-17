@@ -44,4 +44,36 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
+In this Project I have Used Machine Learning algorithm:
+
+1) LogisticRegression
+
+2) Decision Tree
+
+3) K-Nearst Neighbors Classifier
+
+4) Support Vector Machine (SVM)
+
+5) Stock Hosting Gradient Boosting Classifier
+
+6) Naive Bayes Classifier
+
+    > GaussionNB
+    
+    > MultinomialNB
+    
+    > BernoulliNB
+  
+7) Random Forest Classifier
+
+8) Bagging Classifier
+
+9) AdaBoost Classifier
+
+10) XGBoost Classifier
+
+11) Gradient Boosting Classifier
+
+
+
 
