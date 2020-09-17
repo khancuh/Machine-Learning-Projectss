@@ -4,7 +4,7 @@
 
 Project Overview
 
-Predict whether the cancer is benign or malignant
+Create a model to Predict whether the cancer is benign or malignant
 
 Attribute Information:
 
