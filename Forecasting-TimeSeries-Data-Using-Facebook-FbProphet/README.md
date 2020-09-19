@@ -7,3 +7,5 @@ Project Overview:
 
 Prophet is an open source library published by Facebook that is based on decomposable (trend+seasonality+holidays) models. It provides us with the ability to make time series predictions with good accuracy using simple intuitive parameters and has support for including impact of custom seasonality and holidays.
 
+As we have seen Prophet is very powerful and effective in time series forecasting. However, as we mentioned earlier there are a few other forecasting tools.
+
