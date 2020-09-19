@@ -11,14 +11,14 @@ Also it will be usefull for Consumers to verify that they are paying best price 
 
 Applied Models:
 
-Linear Regression
+1->Linear Regression
 
-KNeighborsClassifier
+2->KNeighborsClassifier
 
-Logistic Regression
+3->Logistic Regression
 
-DecisionTree Classifier
+4->DecisionTree Classifier
 
-RandomForest Classifier
+5->RandomForest Classifier
 
-AdaBoost Classifier
+6->AdaBoost Classifier
