@@ -87,6 +87,11 @@ Correlation Matrix Visulization With all the Features:
 ![correlation matrix](https://user-images.githubusercontent.com/58104706/93659238-c8269e80-fa60-11ea-9225-57e0a49a41d2.png)
 
 
+Boxplot all models using cross validation method.
+
+
+![boxplot](https://user-images.githubusercontent.com/58104706/93659413-7848d700-fa62-11ea-93d8-6759236dc80e.png)
+
 
 
 
