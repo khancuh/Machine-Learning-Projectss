@@ -74,7 +74,10 @@ In this Project I have Used Machine Learning algorithm:
 
 11) Gradient Boosting Classifier
 
-Data set Description:
+Exploring the Data set:
+
+![digonastic](https://user-images.githubusercontent.com/58104706/93659052-eee3d580-fa5e-11ea-9bb1-f56c00eef6f4.png)
+
 
 
 
