@@ -74,6 +74,10 @@ In this Project I have Used Machine Learning algorithm:
 
 11) Gradient Boosting Classifier
 
+Data set Description:
+
+
+
 
 
 
