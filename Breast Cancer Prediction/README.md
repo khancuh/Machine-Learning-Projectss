@@ -79,6 +79,9 @@ Exploring the Data set:
 ![digonastic](https://user-images.githubusercontent.com/58104706/93659052-eee3d580-fa5e-11ea-9bb1-f56c00eef6f4.png)
 
 
+Above chart repersent the Bening and Mailngnant The Benign is more than to the Mailngnant values in this data set.
+
+
 
 
 
