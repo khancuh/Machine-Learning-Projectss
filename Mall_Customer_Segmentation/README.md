@@ -1,6 +1,6 @@
 Project Name:
 
-Mall Customer Segmentation
+Mall Customer Segmentation also known as market basket analysis 
 
 Overview:
 
