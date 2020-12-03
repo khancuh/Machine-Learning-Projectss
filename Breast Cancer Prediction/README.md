@@ -1,5 +1,6 @@
-#Breast Cancer Analysis and Prediction Projects
-![breast cancer Analysis and Prediction banner](https://user-images.githubusercontent.com/58104706/93016704-d304ad80-f5e0-11ea-95c0-032c2bee15c3.png)
+Breast Cancer Analysis and Prediction Projects
+
+![index](https://user-images.githubusercontent.com/58104706/100996023-95c81000-357e-11eb-88e2-8528c32f255e.jpg)
 
 
 Project Overview
