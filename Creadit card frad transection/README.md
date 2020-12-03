@@ -1,5 +1,5 @@
-Creadit card frad transection Classification and Prediction.
+Project title: Creadit card frad transection Classification and Prediction.
 
-Project Overview:
+Problem Statement:Apply Machine learning model to identify Transection is Normal or Fraud.
 
-The main aim to identify Transection is Normal or Fraud.
+Solve Problem: 
