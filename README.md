@@ -33,7 +33,7 @@ Classification:
 
 • K-Nearest Neighbours
 
-• Support Vector Machine
+• Support Vector Machine (SVM)
 
 • Naive Bayes
 
