@@ -1,6 +1,6 @@
 Breast Cancer Analysis and Prediction Projects
 
-![index](https://user-images.githubusercontent.com/58104706/100996023-95c81000-357e-11eb-88e2-8528c32f255e.jpg)
+![Banner1](https://user-images.githubusercontent.com/76062093/103670710-f0022980-4f9f-11eb-94be-e27c7f7bc8aa.png)
 
 
 Project Overview
