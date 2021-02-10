@@ -1,1 +1,1 @@
-
+The main aim of this project to detect if a network attack is malicious or not. The main rule of IDS system is detecting and them raising alarm if the network is attacked. I have implemented in this project both Multi-class classification  and Binary-class classification problem, I have used many classifier like Logistic Regression, Decision Tree, K-Nearest Neighbors Classifier, SVC, Random Forest Classifier, Ad boost Classifier, XG-Boost Classifier etc. with Hyper parameter tuning.
