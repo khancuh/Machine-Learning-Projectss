@@ -13,7 +13,7 @@ Overview
 
 • This repository consists of all my Machine Learning projects.
 
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well. Algorithms used
+• Data sets are provided in each of the folders above, and the solution to the problem statements as well. Algorithms used
 
 Regression:
 
