@@ -52,3 +52,6 @@ Ensemble:
 • Extreme Gradient Boosting (XGBoost)
 
 • Voting (Hard/Soft)
+
+• XGBoost 
+
