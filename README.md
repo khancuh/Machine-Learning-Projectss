@@ -1,5 +1,11 @@
 # Machine-Learning-Projects
 
+#Deployment using Streamlit
+
+1. Laptop Price Predictor
+
+url - https://github.com/khancuh/Machine-Learning-Projectss/assets/58104706/5291f825-8c9b-48b4-b7d4-a9a00e88095c
+
 ![machine-learning](https://user-images.githubusercontent.com/58104706/93015066-d6de0300-f5d3-11ea-9e62-7dd508e6f15e.png)
 
 
